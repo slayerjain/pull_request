@@ -3,7 +3,7 @@
   This Java Reverse Number Example shows how to reverse a given number.
 */
 
-public class Neha {
+public class shubham {
 
         public static void main(String[] args) {
 
